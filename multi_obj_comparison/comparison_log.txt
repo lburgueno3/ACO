@@ -1,0 +1,200 @@
+
+--- Run 1 ---
+ACO Time: 21.169402599334717
+ACO Solutions: 9
+Random Search Time: 0.9524779319763184
+Random Search Solutions: 3
+
+--- Run 2 ---
+ACO Time: 17.937494039535522
+ACO Solutions: 5
+Random Search Time: 1.225569248199463
+Random Search Solutions: 3
+
+--- Run 3 ---
+ACO Time: 19.736790418624878
+ACO Solutions: 8
+Random Search Time: 1.0088720321655273
+Random Search Solutions: 2
+
+--- Run 4 ---
+ACO Time: 21.77738881111145
+ACO Solutions: 8
+Random Search Time: 1.074444055557251
+Random Search Solutions: 6
+
+--- Run 5 ---
+ACO Time: 22.56553030014038
+ACO Solutions: 9
+Random Search Time: 1.157609462738037
+Random Search Solutions: 4
+
+--- Run 6 ---
+ACO Time: 21.75220775604248
+ACO Solutions: 9
+Random Search Time: 0.9662120342254639
+Random Search Solutions: 4
+
+--- Run 7 ---
+ACO Time: 17.137019157409668
+ACO Solutions: 4
+Random Search Time: 0.9877338409423828
+Random Search Solutions: 6
+
+--- Run 8 ---
+ACO Time: 25.102224349975586
+ACO Solutions: 8
+Random Search Time: 1.1827645301818848
+Random Search Solutions: 7
+
+--- Run 9 ---
+ACO Time: 21.179832458496094
+ACO Solutions: 8
+Random Search Time: 1.0146191120147705
+Random Search Solutions: 4
+
+--- Run 10 ---
+ACO Time: 20.090112686157227
+ACO Solutions: 9
+Random Search Time: 1.0337560176849365
+Random Search Solutions: 2
+
+--- Run 11 ---
+ACO Time: 23.407355308532715
+ACO Solutions: 9
+Random Search Time: 1.0414128303527832
+Random Search Solutions: 4
+
+--- Run 12 ---
+ACO Time: 22.818521976470947
+ACO Solutions: 10
+Random Search Time: 1.3164494037628174
+Random Search Solutions: 2
+
+--- Run 13 ---
+ACO Time: 21.064197778701782
+ACO Solutions: 8
+Random Search Time: 1.1903936862945557
+Random Search Solutions: 7
+
+--- Run 14 ---
+ACO Time: 25.400705337524414
+ACO Solutions: 8
+Random Search Time: 1.3582942485809326
+Random Search Solutions: 5
+
+--- Run 15 ---
+ACO Time: 18.13840126991272
+ACO Solutions: 5
+Random Search Time: 1.200821876525879
+Random Search Solutions: 2
+
+--- Run 16 ---
+ACO Time: 24.58444881439209
+ACO Solutions: 6
+Random Search Time: 1.235701560974121
+Random Search Solutions: 3
+
+--- Run 17 ---
+ACO Time: 25.263090133666992
+ACO Solutions: 7
+Random Search Time: 1.2361807823181152
+Random Search Solutions: 4
+
+--- Run 18 ---
+ACO Time: 17.267199516296387
+ACO Solutions: 7
+Random Search Time: 1.2336175441741943
+Random Search Solutions: 4
+
+--- Run 19 ---
+ACO Time: 28.24004101753235
+ACO Solutions: 7
+Random Search Time: 1.3643524646759033
+Random Search Solutions: 3
+
+--- Run 20 ---
+ACO Time: 23.481563091278076
+ACO Solutions: 4
+Random Search Time: 1.3225443363189697
+Random Search Solutions: 3
+
+--- Run 21 ---
+ACO Time: 26.76049256324768
+ACO Solutions: 8
+Random Search Time: 1.2598137855529785
+Random Search Solutions: 3
+
+--- Run 22 ---
+ACO Time: 26.547849655151367
+ACO Solutions: 10
+Random Search Time: 1.1603975296020508
+Random Search Solutions: 3
+
+--- Run 23 ---
+ACO Time: 32.76196503639221
+ACO Solutions: 10
+Random Search Time: 1.2142612934112549
+Random Search Solutions: 1
+
+--- Run 24 ---
+ACO Time: 32.18737435340881
+ACO Solutions: 8
+Random Search Time: 1.3504281044006348
+Random Search Solutions: 5
+
+--- Run 25 ---
+ACO Time: 26.977455854415894
+ACO Solutions: 8
+Random Search Time: 1.3150603771209717
+Random Search Solutions: 3
+
+--- Run 26 ---
+ACO Time: 22.425721168518066
+ACO Solutions: 7
+Random Search Time: 1.342604160308838
+Random Search Solutions: 5
+
+--- Run 27 ---
+ACO Time: 23.534987926483154
+ACO Solutions: 7
+Random Search Time: 1.1054620742797852
+Random Search Solutions: 1
+
+--- Run 28 ---
+ACO Time: 23.195807933807373
+ACO Solutions: 11
+Random Search Time: 1.0060813426971436
+Random Search Solutions: 3
+
+--- Run 29 ---
+ACO Time: 22.66015362739563
+ACO Solutions: 9
+Random Search Time: 1.2975924015045166
+Random Search Solutions: 5
+
+--- Run 30 ---
+ACO Time: 28.575246572494507
+ACO Solutions: 9
+Random Search Time: 1.3254766464233398
+Random Search Solutions: 2
+
+--- Wilcoxon Rank-Sum Test Results ---
+Number of Solutions Comparison:
+  Statistic: 5.5
+  p-value: 2.60770320892334e-08
+
+Computation Time Comparison:
+  Statistic: 0.0
+  p-value: 1.862645149230957e-09
+
+--- Descriptive Statistics ---
+       ACO Solutions  Random Search Solutions  ACO Times  Random Search Times
+count      30.000000                30.000000  30.000000            30.000000
+mean        7.833333                 3.633333  23.458019             1.182700
+std         1.723736                 1.586219   3.907497             0.132875
+min         4.000000                 1.000000  17.137019             0.952478
+25%         7.000000                 3.000000  21.172010             1.049671
+50%         8.000000                 3.000000  23.007165             1.207542
+75%         9.000000                 4.750000  25.366302             1.310693
+max        11.000000                 7.000000  32.761965             1.364352

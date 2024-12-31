@@ -1,0 +1,360 @@
+Iteration 0: Current Pareto front with 3 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 9 solutions
+Iteration 30: Current Pareto front with 9 solutions
+Iteration 40: Current Pareto front with 9 solutions
+Iteration 50: Current Pareto front with 9 solutions
+Iteration 60: Current Pareto front with 9 solutions
+Iteration 70: Current Pareto front with 9 solutions
+Iteration 80: Current Pareto front with 9 solutions
+Iteration 90: Current Pareto front with 9 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 5 solutions
+Iteration 20: Current Pareto front with 5 solutions
+Iteration 30: Current Pareto front with 5 solutions
+Iteration 40: Current Pareto front with 5 solutions
+Iteration 50: Current Pareto front with 5 solutions
+Iteration 60: Current Pareto front with 5 solutions
+Iteration 70: Current Pareto front with 5 solutions
+Iteration 80: Current Pareto front with 5 solutions
+Iteration 90: Current Pareto front with 5 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 3 solutions
+Iteration 10: Current Pareto front with 9 solutions
+Iteration 20: Current Pareto front with 9 solutions
+Iteration 30: Current Pareto front with 9 solutions
+Iteration 40: Current Pareto front with 9 solutions
+Iteration 50: Current Pareto front with 9 solutions
+Iteration 60: Current Pareto front with 9 solutions
+Iteration 70: Current Pareto front with 9 solutions
+Iteration 80: Current Pareto front with 9 solutions
+Iteration 90: Current Pareto front with 9 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 9 solutions
+Iteration 20: Current Pareto front with 9 solutions
+Iteration 30: Current Pareto front with 9 solutions
+Iteration 40: Current Pareto front with 9 solutions
+Iteration 50: Current Pareto front with 9 solutions
+Iteration 60: Current Pareto front with 9 solutions
+Iteration 70: Current Pareto front with 9 solutions
+Iteration 80: Current Pareto front with 9 solutions
+Iteration 90: Current Pareto front with 9 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 4 solutions
+Iteration 20: Current Pareto front with 4 solutions
+Iteration 30: Current Pareto front with 4 solutions
+Iteration 40: Current Pareto front with 4 solutions
+Iteration 50: Current Pareto front with 4 solutions
+Iteration 60: Current Pareto front with 4 solutions
+Iteration 70: Current Pareto front with 4 solutions
+Iteration 80: Current Pareto front with 4 solutions
+Iteration 90: Current Pareto front with 4 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 9 solutions
+Iteration 20: Current Pareto front with 9 solutions
+Iteration 30: Current Pareto front with 9 solutions
+Iteration 40: Current Pareto front with 9 solutions
+Iteration 50: Current Pareto front with 9 solutions
+Iteration 60: Current Pareto front with 9 solutions
+Iteration 70: Current Pareto front with 9 solutions
+Iteration 80: Current Pareto front with 9 solutions
+Iteration 90: Current Pareto front with 9 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 9 solutions
+Iteration 20: Current Pareto front with 9 solutions
+Iteration 30: Current Pareto front with 9 solutions
+Iteration 40: Current Pareto front with 9 solutions
+Iteration 50: Current Pareto front with 9 solutions
+Iteration 60: Current Pareto front with 9 solutions
+Iteration 70: Current Pareto front with 9 solutions
+Iteration 80: Current Pareto front with 9 solutions
+Iteration 90: Current Pareto front with 9 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 10 solutions
+Iteration 20: Current Pareto front with 10 solutions
+Iteration 30: Current Pareto front with 10 solutions
+Iteration 40: Current Pareto front with 10 solutions
+Iteration 50: Current Pareto front with 10 solutions
+Iteration 60: Current Pareto front with 10 solutions
+Iteration 70: Current Pareto front with 10 solutions
+Iteration 80: Current Pareto front with 10 solutions
+Iteration 90: Current Pareto front with 10 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 4 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 5 solutions
+Iteration 20: Current Pareto front with 5 solutions
+Iteration 30: Current Pareto front with 5 solutions
+Iteration 40: Current Pareto front with 5 solutions
+Iteration 50: Current Pareto front with 5 solutions
+Iteration 60: Current Pareto front with 5 solutions
+Iteration 70: Current Pareto front with 5 solutions
+Iteration 80: Current Pareto front with 5 solutions
+Iteration 90: Current Pareto front with 5 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 3 solutions
+Iteration 10: Current Pareto front with 6 solutions
+Iteration 20: Current Pareto front with 6 solutions
+Iteration 30: Current Pareto front with 6 solutions
+Iteration 40: Current Pareto front with 6 solutions
+Iteration 50: Current Pareto front with 6 solutions
+Iteration 60: Current Pareto front with 6 solutions
+Iteration 70: Current Pareto front with 6 solutions
+Iteration 80: Current Pareto front with 6 solutions
+Iteration 90: Current Pareto front with 6 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 7 solutions
+Iteration 20: Current Pareto front with 7 solutions
+Iteration 30: Current Pareto front with 7 solutions
+Iteration 40: Current Pareto front with 7 solutions
+Iteration 50: Current Pareto front with 7 solutions
+Iteration 60: Current Pareto front with 7 solutions
+Iteration 70: Current Pareto front with 7 solutions
+Iteration 80: Current Pareto front with 7 solutions
+Iteration 90: Current Pareto front with 7 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 7 solutions
+Iteration 20: Current Pareto front with 7 solutions
+Iteration 30: Current Pareto front with 7 solutions
+Iteration 40: Current Pareto front with 7 solutions
+Iteration 50: Current Pareto front with 7 solutions
+Iteration 60: Current Pareto front with 7 solutions
+Iteration 70: Current Pareto front with 7 solutions
+Iteration 80: Current Pareto front with 7 solutions
+Iteration 90: Current Pareto front with 7 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 7 solutions
+Iteration 20: Current Pareto front with 7 solutions
+Iteration 30: Current Pareto front with 7 solutions
+Iteration 40: Current Pareto front with 7 solutions
+Iteration 50: Current Pareto front with 7 solutions
+Iteration 60: Current Pareto front with 7 solutions
+Iteration 70: Current Pareto front with 7 solutions
+Iteration 80: Current Pareto front with 7 solutions
+Iteration 90: Current Pareto front with 7 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 1 solutions
+Iteration 10: Current Pareto front with 4 solutions
+Iteration 20: Current Pareto front with 4 solutions
+Iteration 30: Current Pareto front with 4 solutions
+Iteration 40: Current Pareto front with 4 solutions
+Iteration 50: Current Pareto front with 4 solutions
+Iteration 60: Current Pareto front with 4 solutions
+Iteration 70: Current Pareto front with 4 solutions
+Iteration 80: Current Pareto front with 4 solutions
+Iteration 90: Current Pareto front with 4 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 4 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 10 solutions
+Iteration 20: Current Pareto front with 10 solutions
+Iteration 30: Current Pareto front with 10 solutions
+Iteration 40: Current Pareto front with 10 solutions
+Iteration 50: Current Pareto front with 10 solutions
+Iteration 60: Current Pareto front with 10 solutions
+Iteration 70: Current Pareto front with 10 solutions
+Iteration 80: Current Pareto front with 10 solutions
+Iteration 90: Current Pareto front with 10 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 10 solutions
+Iteration 20: Current Pareto front with 10 solutions
+Iteration 30: Current Pareto front with 10 solutions
+Iteration 40: Current Pareto front with 10 solutions
+Iteration 50: Current Pareto front with 10 solutions
+Iteration 60: Current Pareto front with 10 solutions
+Iteration 70: Current Pareto front with 10 solutions
+Iteration 80: Current Pareto front with 10 solutions
+Iteration 90: Current Pareto front with 10 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 8 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 7 solutions
+Iteration 20: Current Pareto front with 8 solutions
+Iteration 30: Current Pareto front with 8 solutions
+Iteration 40: Current Pareto front with 8 solutions
+Iteration 50: Current Pareto front with 8 solutions
+Iteration 60: Current Pareto front with 8 solutions
+Iteration 70: Current Pareto front with 8 solutions
+Iteration 80: Current Pareto front with 8 solutions
+Iteration 90: Current Pareto front with 8 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 7 solutions
+Iteration 20: Current Pareto front with 7 solutions
+Iteration 30: Current Pareto front with 7 solutions
+Iteration 40: Current Pareto front with 7 solutions
+Iteration 50: Current Pareto front with 7 solutions
+Iteration 60: Current Pareto front with 7 solutions
+Iteration 70: Current Pareto front with 7 solutions
+Iteration 80: Current Pareto front with 7 solutions
+Iteration 90: Current Pareto front with 7 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 7 solutions
+Iteration 20: Current Pareto front with 7 solutions
+Iteration 30: Current Pareto front with 7 solutions
+Iteration 40: Current Pareto front with 7 solutions
+Iteration 50: Current Pareto front with 7 solutions
+Iteration 60: Current Pareto front with 7 solutions
+Iteration 70: Current Pareto front with 7 solutions
+Iteration 80: Current Pareto front with 7 solutions
+Iteration 90: Current Pareto front with 7 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 4 solutions
+Iteration 10: Current Pareto front with 11 solutions
+Iteration 20: Current Pareto front with 11 solutions
+Iteration 30: Current Pareto front with 11 solutions
+Iteration 40: Current Pareto front with 11 solutions
+Iteration 50: Current Pareto front with 11 solutions
+Iteration 60: Current Pareto front with 11 solutions
+Iteration 70: Current Pareto front with 11 solutions
+Iteration 80: Current Pareto front with 11 solutions
+Iteration 90: Current Pareto front with 11 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 9 solutions
+Iteration 20: Current Pareto front with 9 solutions
+Iteration 30: Current Pareto front with 9 solutions
+Iteration 40: Current Pareto front with 9 solutions
+Iteration 50: Current Pareto front with 9 solutions
+Iteration 60: Current Pareto front with 9 solutions
+Iteration 70: Current Pareto front with 9 solutions
+Iteration 80: Current Pareto front with 9 solutions
+Iteration 90: Current Pareto front with 9 solutions
+
+Pareto-optimal paths from start to end node:
+Iteration 0: Current Pareto front with 2 solutions
+Iteration 10: Current Pareto front with 9 solutions
+Iteration 20: Current Pareto front with 9 solutions
+Iteration 30: Current Pareto front with 9 solutions
+Iteration 40: Current Pareto front with 9 solutions
+Iteration 50: Current Pareto front with 9 solutions
+Iteration 60: Current Pareto front with 9 solutions
+Iteration 70: Current Pareto front with 9 solutions
+Iteration 80: Current Pareto front with 9 solutions
+Iteration 90: Current Pareto front with 9 solutions
+
+Pareto-optimal paths from start to end node:
